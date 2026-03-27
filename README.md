@@ -144,7 +144,7 @@ Import-Module ActiveDirectory
 ## Why This Matters
 
 **If you're hiring:**  
-This shows my skils to executing production-quality automation.
+This shows my skils at executing production-quality automation.
 
 **If you're learning PowerShell:**  
 Use this as a template for structuring real deployment scripts.
