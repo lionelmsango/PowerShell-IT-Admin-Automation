@@ -6,7 +6,7 @@
 
 I got tired of manually creating users in Active Directory. After clicking through the same menus repeatedly during my lab work, I thought: *"This is exactly what a real IT admin would automate."*
 
-So I built this
+So I built this:
 
 ## The Problem This Solves
 
@@ -35,7 +35,7 @@ Manual user management for even a medium-sized company:
 
 ## The Scenario
 
-**TechSolutions GmbH** - fictional but realistic SME:
+**TechSolutions GmbH** (fictional but realistic SME):
 - 25 employees across 4 departments
 - Departments: Geschäftsführung, IT-Abteilung, Vertrieb, Marketing
 - Active Directory environment
