@@ -94,6 +94,28 @@ Import-Module ActiveDirectory
 .\Add-UsersToGroups.ps1 -CSVPath ".\Templates\BulkGroupAdd.csv"
 ```
 
+## 📸 Project Screenshots
+
+### Automated User Onboarding
+![User Onboarding](docs/onboarding-demo.png)
+*Script execution showing automated employee onboarding with colored output and success messages*
+
+### Professional Onboarding Report
+![Onboarding Report](docs/onboarding-report.png)
+*Automatically generated onboarding summary with credentials and next steps*
+
+### CSV-Based Audit Reports
+![CSV Report](docs/csv-report.png)
+*User inventory report exported to CSV format - opens in Excel or any spreadsheet application*
+
+### Bulk Group Operations
+![Bulk Operations](docs/bulk-operations.png)
+*CSV-driven bulk group membership assignment - scalability in action*
+
+### Complete User Lifecycle Demo
+![Complete Workflow](docs/complete-workflow.png)
+*End-to-end demonstration: user creation, reporting, and offboarding in a single session*
+
 ## Project Structure
 
 ## Real-World Impact
