@@ -1,0 +1,11 @@
+# Log files
+Logs/*.log
+Logs/*.txt
+Logs/*.csv
+
+# Screenshots (don't upload to GitHub)
+Screenshots/*
+
+# Temporary files
+*.tmp
+*.temp
