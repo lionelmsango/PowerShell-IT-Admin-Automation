@@ -116,7 +116,6 @@ Import-Module ActiveDirectory
 ![Complete Workflow](https://github.com/lionelmsango/PowerShell-IT-Admin-Automation/blob/35f1a5016936e41abddd6d2270e8fa365c0d1e40/Screenshots/20_Complete_Workflow_Demo.png.png)
 *End-to-end demonstration: user creation, reporting, and offboarding in a single session*
 
-## Project Structure
 
 ## Real-World Impact
 
