@@ -2,6 +2,10 @@
 
 > Practical user and group management automation for Active Directory
 
+## Kurzbeschreibung
+
+Manuelle Benutzerverwaltung in Active Directory ist fehleranfällig und zeitaufwendig, dieses Projekt löst genau dieses Problem. Ich habe 5 produktionsreife PowerShell-Skripte für automatisiertes Onboarding, Offboarding, Massen-Gruppenoperationen und Audit-Reporting entwickelt. Die manuelle Provisionierungszeit wurde von rund 10 Minuten auf 30 Sekunden reduziert. Alle Skripte enthalten vollständiges Error-Handling, Logging und CSV-basierte Ausgabe für Revisionssicherheit.
+
 ## Why I Built This
 
 I got tired of manually creating users in Active Directory. After clicking through the same menus repeatedly during my lab work, I thought: *"This is exactly what a real IT admin would automate."*
